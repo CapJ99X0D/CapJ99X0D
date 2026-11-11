@@ -1,25 +1,13 @@
-<table>
-  <tr>
-    <td width="48%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-        <img src="dark_mode.svg" alt="CapJ99X0D custom ASCII profile card" width="100%" />
-      </picture>
-    </td>
-    <td width="52%" align="center">
-      <img src="system-info-rotating.svg" alt="Rotating red terminal-style system information and GitHub statistics" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img src="dark_mode.svg" alt="CapJ99X0D custom ASCII profile card" width="100%" />
+  </picture>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Robotics+builder;LLM+%26+multimodal+AI;Turning+ideas+into+useful+software" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=FF4D4F&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Robotics+builder;LLM+%26+multimodal+AI;Turning+ideas+into+useful+software" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-[![Profile views](https://komarev.com/ghpvc/?username=CapJ99X0D&color=ff4d4f&style=flat-square)](https://github.com/CapJ99X0D) [![GitHub followers](https://img.shields.io/github/followers/CapJ99X0D?label=Followers&style=flat-square&color=b91c1c)](https://github.com/CapJ99X0D?tab=followers) [![Repositories](https://img.shields.io/badge/Repositories-5-7f1d1d?style=flat-square)](https://github.com/CapJ99X0D?tab=repositories)
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=CapJ99X0D&color=58A6FF&style=flat-square)](https://github.com/CapJ99X0D) [![GitHub followers](https://img.shields.io/github/followers/CapJ99X0D?label=Followers&style=flat-square&color=1f6feb)](https://github.com/CapJ99X0D?tab=followers) [![Repositories](https://img.shields.io/badge/Repositories-5-238636?style=flat-square)](https://github.com/CapJ99X0D?tab=repositories)
+</div>
 
 ## About me
 
@@ -64,6 +52,12 @@ I build practical software around **LLMs, multimodal AI, machine learning, autom
 [![GitHub contribution streak](https://streak-stats.demolab.com?user=CapJ99X0D&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ![Animated contribution snake](https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/output/github-contribution-grid-snake.svg)
+
+## System.Info
+
+<p align="center">
+  <img src="system-info-terminal.svg" alt="Red terminal-style system information panel for CapJ99X0D" width="100%" />
+</p>
 
 ## Contribution Visual Lab
 
