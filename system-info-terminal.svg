@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 560" role="img" aria-labelledby="title desc"><script xmlns="" id="eppiocemhmnlbhjplcgkofciiegomcon"/><script xmlns=""/><script xmlns=""/>
+  <title id="title">CapJ99X0D system information</title>
+  <desc id="desc">Terminal-style profile information for an AI and machine learning developer.</desc>
+  <rect width="980" height="560" rx="22" fill="#080d18" stroke="#ff4d4f" stroke-width="2"/>
+  <rect x="1" y="1" width="978" height="42" rx="21" fill="#0d1424"/>
+  <circle cx="28" cy="22" r="6" fill="#ff4d4f"/><circle cx="50" cy="22" r="6" fill="#ffb454"/><circle cx="72" cy="22" r="6" fill="#39d353"/>
+  <text x="105" y="27" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">jayes@github · ~/profile.sh --live</text>
+  <text x="48" y="88" fill="#ff4d4f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" font-weight="700" letter-spacing="2">SYSTEM.INFO</text>
+  <text x="855" y="88" fill="#ff4d4f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">● LIVE</text>
+  <line x1="48" y1="104" x2="932" y2="104" stroke="#273244"/>
+  <rect x="48" y="122" width="284" height="30" rx="5" fill="#7f1d1d"/>
+  <text x="62" y="143" fill="#fff1f2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700">AI/ML &amp; ROBOTICS</text>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">
+    <g fill="#ff6b6b">
+      <text x="48" y="188">Subject</text><text x="48" y="220">Role</text><text x="48" y="252">Origin</text><text x="48" y="284">Education</text>
+      <text x="48" y="316">Status</text><text x="48" y="348">Toolchain</text><text x="48" y="380">Core.AI</text><text x="48" y="412">Core.Data</text><text x="48" y="444">Core.Infra</text>
+    </g>
+    <g fill="#f0f6fc" font-weight="700" text-anchor="end">
+      <text x="932" y="188">Jayesh · CapJ99X0D</text><text x="932" y="220">AI/ML &amp; Robotics Developer</text><text x="932" y="252">India</text><text x="932" y="284">B.Tech CSE · AI/ML &amp; Robotics</text>
+      <text x="932" y="316">Building · Learning · Shipping</text><text x="932" y="348">Python · Java · Git · GitHub Actions</text><text x="932" y="380">LLMs · Multimodal AI · Computer Vision</text><text x="932" y="412">Pandas · NumPy · SQL · Power BI</text><text x="932" y="444">GitHub Actions · Docker · Jupyter</text>
+    </g>
+    <g fill="#303b50" font-size="13"><text x="170" y="188">............................................................</text><text x="130" y="220">............................................................</text><text x="135" y="252">............................................................</text><text x="150" y="284">............................................................</text><text x="125" y="316">............................................................</text><text x="155" y="348">............................................................</text><text x="135" y="380">............................................................</text><text x="145" y="412">............................................................</text><text x="150" y="444">............................................................</text></g>
+  </g>
+  <line x1="48" y1="472" x2="932" y2="472" stroke="#273244"/>
+  <text x="48" y="506" fill="#ff6b6b" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">-&gt; Contact</text>
+  <text x="48" y="534" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">Grid.GitHub ................................................ @CapJ99X0D</text>
+  <text x="690" y="534" fill="#ff4d4f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">█</text>
+</svg>
