@@ -53,9 +53,10 @@ I build practical software around **LLMs, multimodal AI, machine learning, autom
 
 ![Animated contribution snake](https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/output/github-contribution-grid-snake.svg)
 
-## More profile visuals
+## Contribution Visual Lab
 
-- [GitHub achievements](https://github.com/CapJ99X0D?tab=achievements)
-- [Contribution calendar](https://github.com/CapJ99X0D)
-- [GitHub activity](https://github.com/CapJ99X0D#github-activity)
-- [All repositories](https://github.com/CapJ99X0D?tab=repositories)
+<p align="center">
+  <img src="contribution-visual-lab.svg" alt="Auto-rotating contribution visual lab with grid, skyline, weekly pulse, year ring, streak, and terminal views" width="100%" />
+</p>
+
+_Six contribution views rotate automatically every ~6 seconds: grid · skyline · weekly pulse · year ring · streak · terminal._
