@@ -54,6 +54,27 @@ I build practical software around **AI/ML, automation, robotics, and developer t
   <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
+## More profile visuals
+
+### GitHub trophies
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=CapJ99X0D&theme=darkhub&no-frame=true&no-bg=true&margin-w=6" alt="GitHub profile trophies" width="100%" /></p>
+
+### Streak card
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=CapJ99X0D&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" /></p>
+
+### Activity graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CapJ99X0D&theme=github-compact&hide_border=true" alt="GitHub activity graph" width="100%" />
+
+### Explore more
+
+- 🏙️ [GitHub Skyline](https://skyline.github.com/CapJ99X0D) — a 3D view of your contribution history
+- ⚙️ [GitHub Actions](https://github.com/CapJ99X0D/CapJ99X0D/actions) — automated builds and profile widgets
+- 🧩 [All repositories](https://github.com/CapJ99X0D?tab=repositories) — project portfolio
+- 🧠 [LeetCode solutions](https://github.com/CapJ99X0D?tab=repositories) — add a LeetHub repository when you want your DSA practice visible
+
 ## Let’s connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-CapJ99X0D-181717?style=flat-square&logo=github)](https://github.com/CapJ99X0D)
