@@ -53,6 +53,12 @@ I build practical software around **LLMs, multimodal AI, machine learning, autom
 
 ![Animated contribution snake](https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/output/github-contribution-grid-snake.svg)
 
+## System.Info
+
+<p align="center">
+  <img src="system-info-terminal.svg" alt="Red terminal-style system information panel for CapJ99X0D" width="100%" />
+</p>
+
 ## Contribution Visual Lab
 
 <p align="center">
