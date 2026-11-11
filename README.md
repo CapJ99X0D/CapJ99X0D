@@ -39,12 +39,9 @@ I build practical software around **AI/ML, automation, robotics, and developer t
 
 ## GitHub activity
 
-<div align="center">
+[![Snake workflow](https://github.com/CapJ99X0D/CapJ99X0D/actions/workflows/snake.yml/badge.svg)](https://github.com/CapJ99X0D/CapJ99X0D/actions/workflows/snake.yml)
 
-<a href="https://github.com/CapJ99X0D"><img src="https://github-readme-stats.vercel.app/api?username=CapJ99X0D&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" height="165" /></a>
-<a href="https://github.com/CapJ99X0D"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapJ99X0D&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" height="165" /></a>
-
-</div>
+<p align="center"><img src="https://streak-stats.demolab.com?user=CapJ99X0D&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" /></p>
 
 ## Contribution snake
 
@@ -56,24 +53,14 @@ I build practical software around **AI/ML, automation, robotics, and developer t
 
 ## More profile visuals
 
-### GitHub trophies
+These are the visual alternatives available for this profile:
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=CapJ99X0D&theme=darkhub&no-frame=true&no-bg=true&margin-w=6" alt="GitHub profile trophies" width="100%" /></p>
-
-### Streak card
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=CapJ99X0D&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" /></p>
-
-### Activity graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CapJ99X0D&theme=github-compact&hide_border=true" alt="GitHub activity graph" width="100%" />
-
-### Explore more
-
-- 🏙️ [GitHub Skyline](https://skyline.github.com/CapJ99X0D) — a 3D view of your contribution history
-- ⚙️ [GitHub Actions](https://github.com/CapJ99X0D/CapJ99X0D/actions) — automated builds and profile widgets
+- 🏆 [GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=CapJ99X0D) — achievement cards
+- 📈 [Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CapJ99X0D) — contribution timeline
+- 🏙️ [GitHub Skyline](https://skyline.github.com/CapJ99X0D) — 3D contribution history
+- ⚙️ [GitHub Actions](https://github.com/CapJ99X0D/CapJ99X0D/actions) — automated workflows
 - 🧩 [All repositories](https://github.com/CapJ99X0D?tab=repositories) — project portfolio
-- 🧠 [LeetCode solutions](https://github.com/CapJ99X0D?tab=repositories) — add a LeetHub repository when you want your DSA practice visible
+- 🧠 [LeetCode sync options](https://github.com/SyedMuhammadFaheem/LeetHub) — publish accepted DSA solutions
 
 ## Let’s connect
 
