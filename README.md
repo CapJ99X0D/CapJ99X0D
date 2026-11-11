@@ -55,7 +55,7 @@ I build practical software around **LLMs, multimodal AI, machine learning, autom
 
 ## More profile visuals
 
-- [GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=CapJ99X0D)
-- [Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CapJ99X0D&theme=github-compact)
-- [GitHub Skyline](https://skyline.github.com/CapJ99X0D)
+- [GitHub achievements](https://github.com/CapJ99X0D?tab=achievements)
+- [Contribution calendar](https://github.com/CapJ99X0D)
+- [GitHub activity](https://github.com/CapJ99X0D#github-activity)
 - [All repositories](https://github.com/CapJ99X0D?tab=repositories)
