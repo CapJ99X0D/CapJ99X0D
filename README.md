@@ -46,6 +46,14 @@ I build practical software around **AI/ML, automation, robotics, and developer t
 
 </div>
 
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 ## Let’s connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-CapJ99X0D-181717?style=flat-square&logo=github)](https://github.com/CapJ99X0D)
