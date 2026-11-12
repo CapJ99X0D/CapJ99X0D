@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/e26f293c1f0eee3a3f9bccc51df46d492804af82/profile-live.svg" alt="Colorful animated profile banner for CapJ99X0D" width="100%" />
+  <img src="https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/8ad324689d8987fd76fb4a6eb4d8ef45d72b4d14/profile-live.svg" alt="Colorful animated profile banner for CapJ99X0D" width="100%" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+%26+Robotics+builder;LLM+%26+multimodal+AI;Turning+ideas+into+useful+software" alt="Typing SVG" /></a>
 
 [![Profile views](https://komarev.com/ghpvc/?username=CapJ99X0D&color=58A6FF&style=flat-square)](https://github.com/CapJ99X0D) [![GitHub followers](https://img.shields.io/github/followers/CapJ99X0D?label=Followers&style=flat-square&color=1f6feb)](https://github.com/CapJ99X0D?tab=followers) [![Repositories](https://img.shields.io/badge/Repositories-5-238636?style=flat-square)](https://github.com/CapJ99X0D?tab=repositories)
