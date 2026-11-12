@@ -49,14 +49,6 @@ I build practical software around **LLMs, multimodal AI, machine learning, autom
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square) ![Qwen](https://img.shields.io/badge/Qwen-5B5BD6?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## ![GitHub activity](https://readme-typing-svg.demolab.com?font=Audiowide&size=22&duration=1&pause=100000&repeat=false&color=65DCEF&width=440&height=38&lines=GITHUB+ACTIVITY)
-
-[![Snake workflow](https://github.com/CapJ99X0D/CapJ99X0D/actions/workflows/snake.yml/badge.svg)](https://github.com/CapJ99X0D/CapJ99X0D/actions/workflows/snake.yml)
-
-[![GitHub contribution streak](https://streak-stats.demolab.com?user=CapJ99X0D&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-![Animated contribution snake](https://raw.githubusercontent.com/CapJ99X0D/CapJ99X0D/output/github-contribution-grid-snake.svg)
-
 ## ![System Info](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=1&pause=100000&repeat=false&color=FF647F&width=440&height=38&lines=SYSTEM.INFO)
 
 <p align="center">
