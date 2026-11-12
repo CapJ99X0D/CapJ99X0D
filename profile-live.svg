@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">CapJ99X0D animated profile banner</title>
+  <desc id="desc">A colorful animated profile banner cycling through a greeting, neural network, robotics, terminal, and portrait states.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <filter id="glow-cyan"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-violet"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-amber"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow-green"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1e293b" stroke-width="1" opacity=".55"/></pattern>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="504" rx="24" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
+  <rect x="9" y="9" width="1182" height="503" rx="23" fill="url(#grid)" opacity=".36"/>
+  <circle cx="38" cy="38" r="7" fill="#FF5F57"/><circle cx="62" cy="38" r="7" fill="#FEBC2E"/><circle cx="86" cy="38" r="7" fill="#28C840"/>
+  <text x="116" y="44" fill="#94A3B8" font-family="monospace" font-size="17">profile.sh --live</text>
+  <path d="M34 70H1166" stroke="#243247"/>
+
+  <!-- Scene 1: portrait, rose/red -->
+  <g opacity="1">
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.199;.2;.399;.4;.599;.6;.799;.8;1" values="1;1;0;0;0;0;0;0;0;1"/>
+    <circle cx="300" cy="278" r="142" fill="#170E1A" stroke="#FF4D6D" stroke-width="3"/>
+    <circle cx="300" cy="245" r="58" fill="#F2B18D" stroke="#FF4D6D" stroke-width="3"/>
+    <path d="M239 239Q300 168 361 239Q347 210 300 207Q253 210 239 239Z" fill="#251421"/>
+    <path d="M210 408Q223 315 300 315Q377 315 390 408Z" fill="#2A1731" stroke="#FF4D6D" stroke-width="3"/>
+    <path d="M275 261h18M307 261h18M294 287q6 5 12 0" fill="none" stroke="#3B1727" stroke-width="4" stroke-linecap="round"/>
+    <text x="500" y="215" fill="#FF4D6D" font-family="monospace" font-size="19" letter-spacing="4">VISUAL.MAP</text>
+    <text x="500" y="278" fill="#F8FAFC" font-family="monospace" font-size="39" font-weight="700">Jayesh Kumar</text>
+    <text x="500" y="322" fill="#FDA4AF" font-family="monospace" font-size="22">AI/ML · Robotics · Builder</text>
+    <text x="500" y="382" fill="#94A3B8" font-family="monospace" font-size="18">turning curious ideas into useful software</text>
+  </g>
+
+  <!-- Scene 2: greeting, cyan -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.199;.2;.399;.4;.599;.6;.799;.8;1" values="0;0;1;1;0;0;0;0;0;0"/>
+    <text x="106" y="178" fill="#22D3EE" font-family="monospace" font-size="20" letter-spacing="5">HELLO.WORLD</text>
+    <text x="106" y="258" fill="#F8FAFC" font-family="monospace" font-size="52" font-weight="700">&gt; Hello, I'm Jayesh</text>
+    <text x="110" y="315" fill="#67E8F9" font-family="monospace" font-size="25">AI/ML &amp; Robotics builder</text>
+    <path d="M110 372H1084" stroke="#155E75" stroke-width="2"/>
+    <text x="110" y="420" fill="#94A3B8" font-family="monospace" font-size="18">welcome to my little corner of the internet_</text>
+    <circle cx="1070" cy="178" r="54" fill="none" stroke="#22D3EE" stroke-width="3" filter="url(#glow-cyan)"/><path d="M1042 178h56M1070 150v56" stroke="#22D3EE" stroke-width="3"/>
+  </g>
+
+  <!-- Scene 3: neural network, violet -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.199;.2;.399;.4;.599;.6;.799;.8;1" values="0;0;0;0;1;1;0;0;0;0"/>
+    <text x="106" y="150" fill="#A78BFA" font-family="monospace" font-size="19" letter-spacing="4">NEURAL.NET</text>
+    <g stroke="#7C3AED" stroke-width="4" opacity=".85" filter="url(#glow-violet)">
+      <path d="M190 240L400 185M190 240L400 305M190 390L400 305M190 390L400 425M400 185L650 260M400 305L650 260M400 425L650 260M650 260L870 205M650 260L870 340"/>
+    </g>
+    <g fill="#C4B5FD" stroke="#7C3AED" stroke-width="5">
+      <circle cx="190" cy="240" r="17"/><circle cx="190" cy="390" r="17"/><circle cx="400" cy="185" r="17"/><circle cx="400" cy="305" r="17"/><circle cx="400" cy="425" r="17"/><circle cx="650" cy="260" r="20"/><circle cx="870" cy="205" r="17"/><circle cx="870" cy="340" r="17"/>
+    </g>
+    <text x="106" y="474" fill="#DDD6FE" font-family="monospace" font-size="21">learning patterns · building possibilities</text>
+  </g>
+
+  <!-- Scene 4: robotics, amber -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.199;.2;.399;.4;.599;.6;.799;.8;1" values="0;0;0;0;0;0;1;1;0;0"/>
+    <text x="106" y="153" fill="#F59E0B" font-family="monospace" font-size="19" letter-spacing="4">ROBOTICS.MODE</text>
+    <rect x="170" y="205" width="270" height="190" rx="35" fill="#211509" stroke="#F59E0B" stroke-width="4"/>
+    <path d="M305 205V165M280 165H330" stroke="#F59E0B" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="250" cy="292" r="27" fill="#FCD34D" stroke="#F59E0B" stroke-width="6" filter="url(#glow-amber)"/><circle cx="360" cy="292" r="27" fill="#FCD34D" stroke="#F59E0B" stroke-width="6" filter="url(#glow-amber)"/>
+    <path d="M250 355Q305 380 360 355" fill="none" stroke="#F59E0B" stroke-width="6" stroke-linecap="round"/>
+    <text x="530" y="250" fill="#FDE68A" font-family="monospace" font-size="37" font-weight="700">sense → think → build</text>
+    <text x="530" y="310" fill="#FBBF24" font-family="monospace" font-size="22">computer vision / agents / automation</text>
+    <text x="530" y="370" fill="#94A3B8" font-family="monospace" font-size="18">curiosity is a feature, not a bug_</text>
+  </g>
+
+  <!-- Scene 5: terminal, green -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="25s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;.199;.2;.399;.4;.599;.6;.799;.8;1" values="0;0;0;0;0;0;0;0;1;0"/>
+    <text x="106" y="152" fill="#34D399" font-family="monospace" font-size="19" letter-spacing="4">SYSTEM.READY</text>
+    <rect x="106" y="188" width="980" height="235" rx="16" fill="#06120F" stroke="#10B981" stroke-width="2"/>
+    <text x="140" y="245" fill="#34D399" font-family="monospace" font-size="22">$ whoami</text>
+    <text x="140" y="286" fill="#F8FAFC" font-family="monospace" font-size="24">CapJ99X0D</text>
+    <text x="140" y="332" fill="#34D399" font-family="monospace" font-size="22">$ mission --status</text>
+    <text x="140" y="373" fill="#A7F3D0" font-family="monospace" font-size="24">shipping useful software ... [online]</text>
+    <circle cx="1035" cy="276" r="18" fill="#34D399" filter="url(#glow-green)"/><text x="1000" y="354" fill="#6EE7B7" font-family="monospace" font-size="16">LIVE</text>
+  </g>
+
+  <text x="40" y="485" fill="#64748B" font-family="monospace" font-size="14">CAPJ99X0D · AUTO-ROTATING PROFILE · 5 VIEWS · 5s EACH</text>
+</svg>
